@@ -1,0 +1,47 @@
+Αα,
+Ββ,Γγ,Δδ,Εε,Ζζ,Ηη,Θθ,Ιι,Κκ,Λλ,Μμ,Νν,Ξξ,Οο,Ππ,Ρρ,Σσ/ς,Ττ,Υυ,Φφ,Χχ,Ψψ,Ωω.
+ᾼᾳ,ῌῃ,ῼῳ,
+Άά,Έέ,Ήή,Ίί,Όό,Ύύ,Ώώ
+ᾺὰῈὲῊὴῚὶῸὸῪὺῺὼ
+ἎᾶἮῆἾῖὮῶᾎᾷᾞῇᾮῷ
+ἈἀἘἐἨἠἸἰὈὀὨὠᾈᾀᾘᾐᾨᾠ
+
+Breathing,
+etc.	Accent	—	Vowel	Rho
+—	Adscript
+—	—	 	Α	Ε	Η	Ι	Ο	Υ	Ω	ᾼ	ῌ	ῼ	Ρ
+Acute	´	Ά	Έ	Ή	Ί	Ό	Ύ	Ώ	 	 	 	 
+Grave	`	Ὰ	Ὲ	Ὴ	Ὶ	Ὸ	Ὺ	Ὼ	 	 	 	 
+Circumflex	῏	Ἆ		Ἦ	Ἶ			Ὦ	ᾎ	ᾞ	ᾮ	 
+Smooth	—	᾿	Ἀ	Ἐ	Ἠ	Ἰ	Ὀ		Ὠ	ᾈ	ᾘ	ᾨ	 
+Acute	῎	Ἄ	Ἔ	Ἤ	Ἴ	Ὄ		Ὤ	ᾌ	ᾜ	ᾬ	     ````````````
+Grave	῍	Ἂ	Ἒ	Ἢ	Ἲ	Ὂ		Ὢ	ᾊ	ᾚ	ᾪ	 
+Rough	—	῾	Ἁ	Ἑ	Ἡ	Ἱ	Ὁ	Ὑ	Ὡ	ᾉ	ᾙ	ᾩ	Ῥ
+Acute	῞	Ἅ	Ἕ	Ἥ	Ἵ	Ὅ	Ὕ	Ὥ	ᾍ	ᾝ	ᾭ	 
+Grave	῝	Ἃ	Ἓ	Ἣ	Ἳ	Ὃ	Ὓ	Ὣ	ᾋ	ᾛ	ᾫ	 
+Circumflex	῟	Ἇ		Ἧ	Ἷ		Ὗ	Ὧ	ᾏ	ᾟ	ᾯ	 
+Diaeresis	—	¨				Ϊ		Ϋ					
+Macron	ˉ	Ᾱ			Ῑ		Ῡ					
+Breve	˘	Ᾰ			Ῐ		Ῠ					
+
+Breathing,
+etc.	Accent	—	Vowels	Rho
+—	Subscript
+—	—		α	ε	η	ι	ο	υ	ω	ᾳ	ῃ	ῳ	ρ
+Acute	´	ά	έ	ή	ί	ό	ύ	ώ	ᾴ	ῄ	ῴ	 
+Grave	`	ὰ	ὲ	ὴ	ὶ	ὸ	ὺ	ὼ	ᾲ	ῂ	ῲ	 
+Circumflex	῀	ᾶ	 	ῆ	ῖ	 	ῦ	ῶ	ᾷ	ῇ	ῷ	 
+Smooth	—	᾿	ἀ	ἐ	ἠ	ἰ	ὀ	ὐ	ὠ	ᾀ	ᾐ	ᾠ	ῤ
+Acute	῎	ἄ	ἔ	ἤ	ἴ	ὄ	ὔ	ὤ	ᾄ	ᾔ	ᾤ	 ````````````
+Grave	῍	ἂ	ἒ	ἢ	ἲ	ὂ	ὒ	ὢ	ᾂ	ᾒ	ᾢ	 
+Circumflex	῏	ἆ	 	ἦ	ἶ	 	ὖ	ὦ	ᾆ	ᾖ	ᾦ	 
+Rough	—	῾	ἁ	ἑ	ἡ	ἱ	ὁ	ὑ	ὡ	ᾁ	ᾑ	ᾡ	ῥ
+Acute	῞	ἅ	ἕ	ἥ	ἵ	ὅ	ὕ	ὥ	ᾅ	ᾕ	ᾥ	 
+Grave	῝	ἃ	ἓ	ἣ	ἳ	ὃ	ὓ	ὣ	ᾃ	ᾓ	ᾣ	 
+Circumflex	῟	ἇ	 	ἧ	ἷ	 	ὗ	ὧ	ᾇ	ᾗ	ᾧ	 
+Diaeresis	—	¨				ϊ		ϋ					
+Acute	΅				ΐ		ΰ					
+Grave	῭				ῒ		ῢ					
+Circumflex	῁				ῗ		ῧ					
+Macron	—	ˉ	ᾱ			ῑ		ῡ					
+Breve	˘	ᾰ			ῐ		ῠ					

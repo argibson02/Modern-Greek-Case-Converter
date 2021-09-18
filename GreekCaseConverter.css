@@ -1,0 +1,23 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+    font-family: Helvetica;
+    background-color: blanchedalmond;
+}
+
+form {
+    width: 80%;
+    border: 1px;
+    border-radius: 3px;
+    resize: vertical;
+}
+
+.textArea {
+    height: auto;
+    width: auto;
+}
+
+
+/*     text-transform: lowercase;      */
